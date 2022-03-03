@@ -1,0 +1,35 @@
+.col{
+    background-color: red;
+    height: 50vh;
+    border: 5px dotted blue;
+    color: azure;
+}
+
+img{
+    height: 200px;
+    width: 600px;
+    object-fit: contain;
+}
+
+.jumbotron{
+background-color: rgba(55, 51, 85, 0.418);
+}
+
+a{
+width: 300px;
+}
+
+a:hover{
+    width: 900px;
+}
+.display-4,.lead{
+display:flex;
+justify-content: center;
+}
+
+/* footer */
+.btn-group{
+    display: flex;
+    justify-content: center;
+}
+
